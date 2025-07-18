@@ -20,7 +20,6 @@ return new class extends Migration
             $table->text('loction')->nullable();
             $table->text('category')->nullable();
             $table->text('image')->nullable();
-            $table->text('category')->nullable();
             $table->text('s_description')->nullable();
             $table->text('l_description')->nullable();
             $table->text('s_description1')->nullable();

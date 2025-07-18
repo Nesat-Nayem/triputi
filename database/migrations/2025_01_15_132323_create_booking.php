@@ -23,7 +23,6 @@ return new class extends Migration
             $table->text('city')->nullable();
             $table->text('area')->nullable();
             $table->text('pincode')->nullable();
-            $table->text('pincode')->nullable();
             $table->text('qty')->nullable();
             $table->text('transportation_fare')->nullable();
             $table->text('filled_up')->nullable();
